@@ -3,8 +3,8 @@
 _A vibe-coded anki template that allows random values_
 
 ![](.showcase/a.webp)
-![](.showcase/a.webp)
-![](.showcase/a.webp)
+![](.showcase/b.webp)
+![](.showcase/c.webp)
 
 ## Usage
 
